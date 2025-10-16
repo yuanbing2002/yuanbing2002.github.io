@@ -9,6 +9,7 @@ index.html        - Main HTML page to open the template in browser.
 *.html            - Additional HTML pages (if any).
 LICENSE-*.txt     - License file as per your downloaded variant.
 
-This is my personal website.
+This is my personal website：https://yuanbing2002.github.io/
 ------------------------
 For template, please check https://templateflip.com/templates/creative-cv/
+
